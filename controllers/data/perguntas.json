@@ -1,0 +1,156 @@
+{
+    "brasileirao": [
+        {
+            "pergunta": "Qual clube brasileiro possui o maior número de títulos do Campeonato Brasileiro?",
+            "alternativas": ["São Paulo FC", "Flamengo", "Palmeiras", "Santos"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Quem é o maior artilheiro da história do Campeonato Brasileiro?",
+            "alternativas": ["Romário", "Zico", "Roberto Dinamite", "Dadá Maravilha"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Em que ano o Flamengo conquistou seu primeiro título do Campeonato Brasileiro?",
+            "alternativas": ["1980", "1982", "1983", "1987"],
+            "resposta": 0
+        },
+        {
+            "pergunta": "Qual time foi campeão brasileiro em 2023?",
+            "alternativas": ["Flamengo", "Palmeiras", "Atlético Mineiro", "Grêmio"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual estádio é considerado o maior do Brasil em capacidade?",
+            "alternativas": ["Maracanã", "Morumbi", "Arena do Grêmio", "Mineirão"],
+            "resposta": 0
+        },
+        {
+            "pergunta": "Quantas vezes o Santos foi campeão do Brasileirão?",
+            "alternativas": ["5", "6", "7", "8"],
+            "resposta": 3
+        },
+        {
+            "pergunta": "Qual clube foi o primeiro campeão do Campeonato Brasileiro, em 1959?",
+            "alternativas": ["Bahia", "Santos", "Flamengo", "Palmeiras"],
+            "resposta": 0
+        },
+        {
+            "pergunta": "Zico defendeu a maior parte de sua carreira por qual clube?",
+            "alternativas": ["Santos", "Fluminense", "Flamengo", "Vasco"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Qual treinador conquistou mais títulos do Brasileirão?",
+            "alternativas": ["Telê Santana", "Vanderlei Luxemburgo", "Abel Ferreira", "Luiz Felipe Scolari"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual clube brasileiro ficou invicto durante toda uma edição do Campeonato Brasileiro?",
+            "alternativas": ["Santos em 1962", "Flamengo em 1980", "Palmeiras em 1994", "São Paulo em 1992"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Pelé jogou toda sua carreira no Brasil por qual clube?",
+            "alternativas": ["Flamengo", "Santos", "São Paulo", "Corinthians"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual clube tem o maior número de participações na Série A do Brasileirão?",
+            "alternativas": ["São Paulo", "Flamengo", "Palmeiras", "Santos"],
+            "resposta": 0
+        },
+        {
+            "pergunta": "Em que ano o Corinthians conquistou seu primeiro título do Campeonato Brasileiro?",
+            "alternativas": ["1990", "1999", "2005", "2011"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual foi o primeiro clube a ser rebaixado para a Série B do Campeonato Brasileiro?",
+            "alternativas": ["América-MG", "Náutico", "Coritiba", "Guarani"],
+            "resposta": 0
+        },
+        {
+            "pergunta": "Quantos times disputam a Série A do Campeonato Brasileiro atualmente?",
+            "alternativas": ["16", "18", "20", "24"],
+            "resposta": 2
+        }
+    ],
+    "copadomundo": [
+        {
+            "pergunta": "Quantas vezes o Brasil venceu a Copa do Mundo?",
+            "alternativas": ["4", "5", "6", "3"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual país sediou a primeira Copa do Mundo, em 1930?",
+            "alternativas": ["Brasil", "Argentina", "Uruguai", "Itália"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Quem é o maior artilheiro da história das Copas do Mundo?",
+            "alternativas": ["Pelé", "Ronaldo Fenômeno", "Miroslav Klose", "Just Fontaine"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Em que ano o Brasil ganhou sua primeira Copa do Mundo?",
+            "alternativas": ["1950", "1954", "1958", "1962"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Qual seleção venceu a Copa do Mundo de 2022 no Catar?",
+            "alternativas": ["França", "Brasil", "Argentina", "Croácia"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Qual jogador ganhou a Bola de Ouro na Copa do Mundo de 2022?",
+            "alternativas": ["Kylian Mbappé", "Lionel Messi", "Luka Modric", "Neymar"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Em que país foi realizada a Copa do Mundo de 2014?",
+            "alternativas": ["Argentina", "Brasil", "África do Sul", "Rússia"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual seleção foi a única a participar de todas as edições da Copa do Mundo?",
+            "alternativas": ["Alemanha", "Itália", "Argentina", "Brasil"],
+            "resposta": 3
+        },
+        {
+            "pergunta": "Quem marcou o famoso gol 'de mão' na Copa de 1986?",
+            "alternativas": ["Pelé", "Zico", "Diego Maradona", "Gary Lineker"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Qual foi o resultado do jogo Brasil x Alemanha na semifinal de 2014?",
+            "alternativas": ["5x1", "6x0", "7x1", "4x0"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Ronaldo Fenômeno marcou quantos gols na Copa do Mundo de 2002?",
+            "alternativas": ["6", "7", "8", "5"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual goleiro ajudou o Brasil a ganhar a Copa de 1994 defendendo pênaltis na final?",
+            "alternativas": ["Dida", "Taffarel", "Marcos", "Victor"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Quantas seleções participam da fase de grupos da Copa do Mundo desde 1998?",
+            "alternativas": ["24", "28", "32", "36"],
+            "resposta": 2
+        },
+        {
+            "pergunta": "Em que Copa do Mundo Pelé foi campeão pela primeira vez, com apenas 17 anos?",
+            "alternativas": ["1954", "1958", "1962", "1966"],
+            "resposta": 1
+        },
+        {
+            "pergunta": "Qual país ganhou a Copa do Mundo de 2018 na Rússia?",
+            "alternativas": ["Croácia", "Bélgica", "França", "Inglaterra"],
+            "resposta": 2
+        }
+    ]
+}
