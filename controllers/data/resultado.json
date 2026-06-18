@@ -8,7 +8,7 @@
         "erros": 4,
         "percentual": 60,
         "pontuacao": 60,
-        "data": "14\/06\/2026 14:23"
+        "data": "14\/06\/2026"
     },
     {
         "id": "u_6a2e9d7e41aa99.82976632",
@@ -19,7 +19,7 @@
         "erros": 2,
         "percentual": 80,
         "pontuacao": 80,
-        "data": "14\/06\/2026 14:24"
+        "data": "14\/06\/2026"
     },
     {
         "id": "u_6a2ea055296391.18424647",
@@ -30,7 +30,7 @@
         "erros": 3,
         "percentual": 70,
         "pontuacao": 70,
-        "data": "14\/06\/2026 14:36"
+        "data": "14\/06\/2026"
     },
     {
         "id": "u_6a2ec4ded01532.46409029",
@@ -41,7 +41,7 @@
         "erros": 8,
         "percentual": 20,
         "pontuacao": 20,
-        "data": "14\/06\/2026 17:12"
+        "data": "14\/06\/2026"
     },
     {
         "id": "u_6a305643ce5b16.50875823",
@@ -52,83 +52,6 @@
         "erros": 3,
         "percentual": 70,
         "pontuacao": 70,
-        "data": "15\/06\/2026 21:45"
-    },
-    {
-        "id": "u_6a312a2b816753.95031498",
-        "usuario_id": "u_6a30a08ce406b1.98444114",
-        "usuario_nome": "turzinn",
-        "tipo_quiz": "Brasileirão",
-        "acertos": 6,
-        "erros": 4,
-        "percentual": 60,
-        "pontuacao": 60,
-        "data": "16\/06\/2026"
-    },
-    {
-        "id": "u_6a312bca806387.31583119",
-        "usuario_id": "u_6a30a08ce406b1.98444114",
-        "usuario_nome": "turzinn",
-        "tipo_quiz": "Copa do Mundo",
-        "acertos": 10,
-        "erros": 0,
-        "percentual": 100,
-        "pontuacao": 100,
-        "data": "16\/06\/2026"
-    },
-    {
-        "id": "u_6a312ce4b6db42.34297748",
-        "usuario_id": "u_6a30a08ce406b1.98444114",
-        "usuario_nome": "turzinn",
-        "tipo_quiz": "Brasileirão",
-        "acertos": 6,
-        "erros": 4,
-        "percentual": 60,
-        "pontuacao": 60,
-        "data": "16\/06\/2026"
-    },
-    {
-        "id": "u_6a319a72894967.65734637",
-        "usuario_id": "u_6a30a08ce406b1.98444114",
-        "usuario_nome": "turzinn",
-        "tipo_quiz": "Brasileirão",
-        "acertos": 8,
-        "erros": 2,
-        "percentual": 80,
-        "pontuacao": 80,
-        "data": "16\/06\/2026"
-    },
-    {
-        "id": "u_6a319ae6c1bad9.80142105",
-        "usuario_id": "u_6a30a08ce406b1.98444114",
-        "usuario_nome": "turzinn",
-        "tipo_quiz": "Brasileirão",
-        "acertos": 7,
-        "erros": 3,
-        "percentual": 70,
-        "pontuacao": 70,
-        "data": "16\/06\/2026"
-    },
-    {
-        "id": "u_6a319cfeca7034.53100184",
-        "usuario_id": "u_6a30a08ce406b1.98444114",
-        "usuario_nome": "turzinn",
-        "tipo_quiz": "Copa do Mundo",
-        "acertos": 10,
-        "erros": 0,
-        "percentual": 100,
-        "pontuacao": 100,
-        "data": "16\/06\/2026"
-    },
-    {
-        "id": "u_6a332593a46208.94200752",
-        "usuario_id": "u_6a30a08ce406b1.98444114",
-        "usuario_nome": "turzinn",
-        "tipo_quiz": "Brasileirão",
-        "acertos": 10,
-        "erros": 0,
-        "percentual": 100,
-        "pontuacao": 100,
-        "data": "18\/06\/2026"
+        "data": "15\/06\/2026"
     }
 ]
