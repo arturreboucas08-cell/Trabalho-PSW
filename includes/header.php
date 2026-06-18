@@ -21,7 +21,7 @@ $pagina_atual   = basename($_SERVER['PHP_SELF']);
 
         <!-- Logo colada à esquerda -->
         <a href="pg_inicial.php" class="cabecalho-logo">
-            <span>Quiz <em>Futebol</em></span>
+            <span>Fala<em>Torcedor!</em></span>
         </a>
 
         <?php if ($usuario_logado): ?>

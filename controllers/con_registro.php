@@ -3,7 +3,7 @@
 // con_registro.php — Lógica do cadastro
 // ================================================
 
-require_once __DIR__ . '/con_login.php';
+require_once dirname(__DIR__) . '/includes/funcoes.php';
 
 // Busca usuário pelo nome no JSON
 function buscar_usuario_por_nome(string $nome): ?array {
@@ -13,7 +13,6 @@ function buscar_usuario_por_nome(string $nome): ?array {
     return null;
 }
 
-// --- Lógica do registro ---
 $erro = '';
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
